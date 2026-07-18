@@ -55,6 +55,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Policy Data & Statistics
 
+- [California Assisted Living Waiver Open Data](https://californiacarecompass.com/data/california-alw-county-tracker-2026) – California DHCS-sourced facility, licensed-capacity, enrollment, and statewide waitlist data for Medi-Cal assisted-living policy analysis.
 - [World Bank Open Data](https://data.worldbank.org/) – Global development and policy-relevant datasets.
 - [OECD Data](https://data.oecd.org/) – Comparable international policy indicators.
 - [UN Data](https://data.un.org/) – Global economic, social, and environmental statistics.
