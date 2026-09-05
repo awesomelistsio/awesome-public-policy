@@ -1,4 +1,4 @@
-# Awesome Public Policy [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Public Policy [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1123975862.svg)](https://doi.org/10.5281/zenodo.19681716)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -144,11 +144,11 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- [Awesome Economics](https://github.com/awesomelistsio/awesome-economics)
-- [Awesome Data Analytics](https://github.com/awesomelistsio/awesome-data-analytics)
-- [Awesome Open Governance](https://github.com/awesomelistsio/awesome-open-governance)
-- [Awesome GovTech](https://github.com/awesomelistsio/awesome-govtech)
-- [Awesome Sustainability](https://github.com/awesomelistsio/awesome-sustainability)
+- [Awesome Economics](https://github.com/brandonhimpfen/awesome-economics)
+- [Awesome Data Analytics](https://github.com/brandonhimpfen/awesome-data-analytics)
+- [Awesome Open Governance](https://github.com/brandonhimpfen/awesome-open-governance)
+- [Awesome GovTech](https://github.com/brandonhimpfen/awesome-govtech)
+- [Awesome Sustainability](https://github.com/brandonhimpfen/awesome-sustainability)
 
 ## Contribute
 
